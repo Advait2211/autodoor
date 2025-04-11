@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/advaitdesai/Programming/autodoor/plate_read'
+relocations:     []
+...
