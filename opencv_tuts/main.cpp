@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 
-    VideoCapture cap(0);
+    VideoCapture cap(1);
     Mat img;
 
     while (true)
