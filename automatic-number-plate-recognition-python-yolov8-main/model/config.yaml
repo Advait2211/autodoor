@@ -1,0 +1,12 @@
+# dataset root directory
+path: /content/gdrive/My Drive/plate_recognition_model_training/data
+
+# train images
+train: images/train
+
+# validation images
+val: images/train
+
+# classes
+names:
+  0: vehicle_registration_plate

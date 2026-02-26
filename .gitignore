@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# too large file
+**/train-annotations-bbox.csv
+**/dataset_generation_for_plate_gen/
+
 # Compiled Object files
 *.slo
 *.lo
